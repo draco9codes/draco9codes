@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @draco9codes
 - 👀 I’m interested in Coding, music, anime, gaming
-- 🌱 I’m currently learning react
+- 🌱 I’m currently learning spring
 - 📫 Reach me at shivamkumar16385@gmail.com
 - 📫 You are welcome to use my repositories and feel free to contact me in regards to any queries.
 
